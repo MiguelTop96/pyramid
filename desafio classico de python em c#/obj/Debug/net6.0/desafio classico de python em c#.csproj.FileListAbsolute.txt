@@ -1,0 +1,15 @@
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\desafio classico de python em c#.csproj.AssemblyReference.cache
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\desafio classico de python em c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\desafio classico de python em c#.AssemblyInfoInputs.cache
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\desafio classico de python em c#.AssemblyInfo.cs
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\desafio classico de python em c#.csproj.CoreCompileInputs.cache
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\bin\Debug\net6.0\desafio classico de python em c#.exe
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\bin\Debug\net6.0\desafio classico de python em c#.deps.json
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\bin\Debug\net6.0\desafio classico de python em c#.runtimeconfig.json
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\bin\Debug\net6.0\desafio classico de python em c#.dll
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\bin\Debug\net6.0\ref\desafio classico de python em c#.dll
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\bin\Debug\net6.0\desafio classico de python em c#.pdb
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\desafio classico de python em c#.dll
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\ref\desafio classico de python em c#.dll
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\desafio classico de python em c#.pdb
+C:\Users\MiguelRuiz\Documents\Z\c#\desafio classico de python em c#\obj\Debug\net6.0\desafio classico de python em c#.genruntimeconfig.cache
